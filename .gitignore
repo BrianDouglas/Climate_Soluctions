@@ -1,5 +1,7 @@
 # keys file
 config.py
+# raw data
+resources/raw/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
