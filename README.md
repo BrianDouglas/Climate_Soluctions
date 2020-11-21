@@ -10,8 +10,9 @@ Group 3 Questions and Sources
       *Energy Efficiency and Renewable Energy
   * EPA
 3) Population stabilization vs education rates? - Rahwa
-  * US Department of Education
+  * Department of Aggriculture
+  * US Census 
 
 4) Have COVID lockdowns affected air quality/water quality  - Karen
   * Google COVID mobility data
-  *A The Guardian article
+  * A The Guardian article
